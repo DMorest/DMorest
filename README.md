@@ -39,8 +39,8 @@ Currently a high school student getting ready for the CEE.
 ### How to contact me?
 Email: dmorest@foxmail.com
 
-       dmorest0609@gmail.com
-
+  dmorest0609@gmail.com
+  
 I live in China, so it's a bit hard for foreign friends to contact me...
 Maybe I'll consider get a discord group later? awa
 Sometimes active on Twitter and Discord. 
