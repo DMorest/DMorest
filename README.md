@@ -16,6 +16,11 @@ lucky for me to meet you! You can leave messages for me! XD
 Eh, through it may look fake, but I would still like to thank @Mr_DZT for
 being together with me on the net. Also go and sub him on bilibili~😘
 https://space.bilibili.com/437772906
+
+Oh, and how can we forget @maihaoren233? He's a super duper cool guy! 
+Here's his bilibili page: https://space.bilibili.com/396923778 
+
+Well, haven't really seen them for a LONG time...
 ### TODO LIST (fake)
 - Finish local. for PvZ ExpEd.
 - Get 12.00 PTT in Arcaea
