@@ -6,10 +6,10 @@ Contact me via WeChat and QQ plz
 Sub to my bilibili too plz ↓
 https://space.bilibili.com/442631701
 ### What you may find
-> I love cool things related to computers. I use Python(PyCharm), VS and Dev-C++.
-> If I find something really easy to do and it's cool, I'll submit the code here.
-> I also make games. I may sometimes send my demos here.
-> 😢My coding experience is kinda poor. If you're a big pro, then it's toolucky for me to meet you! You can leave messages for me! XD
+  > I love cool things related to computers. I use Python(PyCharm), VS and Dev-C++.
+  > If I find something really easy to do and it's cool, I'll submit the code here.
+  > I also make games. I may sometimes send my demos here.
+  > 😢My coding experience is kinda poor. If you're a big pro, then it's toolucky for me to meet you!    > You can leave messages for me! XD 
 ↑ What I wrote originally when I'm a child
 Well, I guess it might be not false even till now...?
 Besides the part that I deprecated PyCharm and used VSCode only now.
