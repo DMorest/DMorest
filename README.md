@@ -1,58 +1,23 @@
-### もしも～し？
-This is Dersuels Morest, an undergraduate at SISU. 
-Well, the last time I edited this is when I'm in junior 2, i guess. 
-By now I have finally decided to do something real here, so I've gotta rewrite this whole thing. 
-Contact me via WeChat and QQ plz
-Sub to my bilibili too plz ↓
-https://space.bilibili.com/442631701
-### What you may find
-  > I love cool things related to computers. I use Python(PyCharm), VS and Dev-C++.
-  > If I find something really easy to do and it's cool, I'll submit the code here.
-  > I also make games. I may sometimes send my demos here.
-  > 😢My coding experience is kinda poor. If you're a big pro, then it's toolucky for me to meet you!    > You can leave messages for me! XD
-## What you may find (fr)
-↑ What I wrote originally when I'm a child
-Well, I guess it might be not false even till now...?
-Besides the part that I deprecated PyCharm and used VSCode only now.
-Now some interesting things are put here, for sake that someone may find it useful. 
-### What I do now
-I've written in my bio that I can use Chinese, English and Japanese, so communicating with me in these three languages is ok. 
-I'm a heavy anime lover and otoge-ma-(音ゲーマー, MUG player)
-Now playing Phigros, Arcaea (mobile), Malody V, osu!, osu!mania (PC), maimai DX(arcade).
-I also listen to VOCALOID. 
-I myself is not a transgender, but I'm trans friendly, so feel free to befriend with me (fr)
+<h1 align="center">Hi 👋, I'm DersuelsMorest_</h1>
+<h3 align="center">来自半人马座α的不明生命体。🇨🇳🇬🇧🇯🇵 ←利用可能な言語</h3>
 
-### ADVERTISMENT
-Eh, through it may look fake, but I would still like to thank @Mr_DZT for
-being together with me on the net. Also go and sub him on bilibili~😘
-https://space.bilibili.com/437772906
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmorest&label=Profile%20views&color=0e75b6&style=flat" alt="dmorest" /> </p>
 
-Oh, and how can we forget @maihaoren233? He's a super duper cool guy! 
-Here's his bilibili page: https://space.bilibili.com/396923778 
+<p align="left"> <a href="https://twitter.com/dmorest0609" target="blank"><img src="https://img.shields.io/twitter/follow/dmorest0609?logo=twitter&style=for-the-badge" alt="dmorest0609" /></a> </p>
 
-Well, haven't really seen them for a LONG time...
+- 🌱 I’m currently learning **Unity, Static Site Generation...**
 
-There are also a lot of friends that I would love to thank, but it seems too long to put them all here. 
-Well just forget it i dont have any friends xd
+- 音游重度依赖。 [Phigros(15.90) Arcaea(12.06) maimaiでらっくす(14976) osu!mania(2700pp)](Phigros(15.90) Arcaea(12.06) maimaiでらっくす(14976) osu!mania(2700pp))
 
-### How to contact me?
-Email: dmorest@foxmail.com
+- 📫 How to reach me **dmorest0609@gmail.com, dmorest@foxmail.com**
 
-  dmorest0609@gmail.com
-  
-I live in China, so it's a bit hard for foreign friends to contact me...
-Maybe I'll consider get a discord group later? awa
-Sometimes active on Twitter(X) and Discord. 
-Best contact me via WeChat or QQ.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/dmorest0609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dmorest0609" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dmorest0609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dmorest0609" height="30" width="40" /></a>
+</p>
 
-### ENDING
-It turns out that even if I grow up, I still have no idea what to put here. Maybe I'll figure it out later. 
-Hope that I may get a little more known on GitHub
-Hope my porjects can really make a difference, even a bit
-Hope to make more friends
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-これ以上。
-おやすみ
-
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmorest&show_icons=true&locale=en" alt="dmorest" /></p>
